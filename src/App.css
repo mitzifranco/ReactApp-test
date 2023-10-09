@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+allAire {
+  background: linear-gradient(90deg, rgb(253, 253, 253) 0%, rgb(92, 202, 55) 100%);
+}
